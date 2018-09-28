@@ -8,7 +8,6 @@ public class ButtonController implements ButtonControllerInterFace{
     private double b_Number;
     private double mSum;
     private ZeroCutter mZC;
-    private DataCollector mDC;
     public void setA_number(double number) {
         a_Number = number;
     }
